@@ -1,0 +1,2 @@
+Added more exceptions to look place instance of <p> for certain definitions
+Removed tags within definitions
